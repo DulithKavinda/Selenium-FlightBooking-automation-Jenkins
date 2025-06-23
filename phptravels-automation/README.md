@@ -1,6 +1,6 @@
 # PHPTravels Automation Project
 
-This is a complete Selenium automation project using Java, TestNG and Maven. It automates the user signup, login, hotel search, and booking confirmation flow on the PHPTravels demo website
+This is a complete Selenium automation project using Java, TestNG and Maven. It automates the user signup, login, hotel search and booking confirmation flow on the PHPTravels demo website
 (https://phptravels.net).
 
 
